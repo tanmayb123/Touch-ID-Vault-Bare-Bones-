@@ -8,6 +8,6 @@ Link to the App on the iOS App Store:
 
 Link to the YouTube video:
 
-http://youtu.be/aCeoNQdEhbM (Still Processing)
+http://youtu.be/aCeoNQdEhbM
 
 Thanks!
